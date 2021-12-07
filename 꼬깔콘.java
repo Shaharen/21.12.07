@@ -1,9 +1,9 @@
 package Exam02;
 
-public class ²¿±òÄÜ extends Snack{
+public class ê¼¬ê¹”ì½˜ extends Snack{
 	
 	public void open() {
-		System.out.println("²¿±òÄÜ ºÀÁö¸¦ ¶â´Ù");
+		System.out.println("ê¼¬ê¹”ì½˜ ë´‰ì§€ë¥¼ ëœ¯ë‹¤");
 	}
 	
 }
